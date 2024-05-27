@@ -8,7 +8,7 @@ This repository contains the backend assignment for Stratex.
 
 ```sh
 # Clone the Git repository
-git clone https://github.com/Ravish108Coder/stratex-backend-assignment.git
+git clone https://github.com/Ravish108Coder/stratex-backend-assignment-.git
 
 # Navigate to the project directory
 cd stratex-backend-assignment
